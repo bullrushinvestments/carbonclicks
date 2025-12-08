@@ -1,0 +1,37 @@
+{
+  "name": "CarbonClicks",
+  "type": "saas",
+  "description": "A micro-SaaS platform that helps e-commerce businesses and content creators measure their carbon footprint and offers sustainable solutions to reduce it, integrating with popular shopping carts like Shopify.",
+  "generated_at": "2025-12-07T09:07:29.481341",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\saas\\carbonclicks\\src\\components\\component.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\vercel.json",
+    "businesses\\production_test\\saas\\carbonclicks\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\vercel.json",
+    "businesses\\production_test\\saas\\carbonclicks\\src\\components\\test.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\src\\app\\layout.tsx",
+    "businesses\\production_test\\saas\\carbonclicks\\src\\app\\globals.css",
+    "businesses\\production_test\\saas\\carbonclicks\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
